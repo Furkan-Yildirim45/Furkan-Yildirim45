@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Furkan-Yildirim45/github-image/blob/main/github_logo.png)
+![MasterHead](https://github.com/Furkan-Yildirim45/github-image/blob/main/github_logo.png)
 <h1 align="center">Hi 👋, I'm Furkan Yıldırım</h1>
 <h3 align="center">I work as a flutter developer in the data processing department of the university I studied at.</h3>
 
