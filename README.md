@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Yıldırım</h1>
 <h3 align="center">I work as a flutter developer in the data processing department of the university I studied at.</h3>
 
-- 🔭 I’m currently working on [Educhamp]()
+- 🔭 I’m currently working on [Educhamp]
 s
 - 🌱 I’m currently learning **Flutter**
 
